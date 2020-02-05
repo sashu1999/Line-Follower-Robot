@@ -1,0 +1,2 @@
+# Line-Follower-Robot
+A line follower robot is essentially created to trail a line or path. A simple line/path or as compound path marking structures can be used. Numerous sensing schemes can be used in order to sense these markers or lines. The sensing accuracy and flexibility is determined by the kind of schemes to be used. Sensor positioning also plays a dynamic role in improving the robot’s performance. Primarily, a line-following robot is a self-moving robot that detects and follows a line or a path. The path is designed by using a black line on a white surface. 
