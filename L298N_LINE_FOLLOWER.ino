@@ -21,7 +21,6 @@ pinMode(MB1, OUTPUT); // initialize MOTOR_B1 pin as an output
 pinMode(MB2, OUTPUT); // initialize MOTOR_B2 pin as an output
 pinMode(RI, INPUT); // initialize RIGHT pin as an input
 pinMode(LF, INPUT); // initialize ENA pin as an input
-
 }
 
 void loop() {
